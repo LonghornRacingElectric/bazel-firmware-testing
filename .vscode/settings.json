@@ -1,0 +1,4 @@
+{
+  "cortex-debug.armToolchainPath": "/Users/dhairyagupta/development/arm/ArmGNUToolchain/13.3.Rel1/arm-none-eabi/bin",
+  "cortex-debug.openocdPath": "/opt/homebrew/bin/openocd"
+}

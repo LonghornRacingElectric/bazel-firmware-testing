@@ -1,0 +1,5 @@
+/build
+bazel-testing-firmware
+bazel-out
+bazel-bin
+bazel-testlogs
